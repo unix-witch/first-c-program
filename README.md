@@ -1,2 +1,2 @@
 # first-c-program
-The first actual C program that I had made that still exists
+Due to my habits of deleting projects when I feel like it, many of my early programs are lost. This is the first program I had made that is still avaliable, made when I was 11
